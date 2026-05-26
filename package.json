@@ -27,12 +27,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/unloopedmido/tasteloop.git"
+    "url": "git+https://github.com/nonlooped/tasteloop.git"
   },
   "bugs": {
-    "url": "https://github.com/unloopedmido/tasteloop/issues"
+    "url": "https://github.com/nonlooped/tasteloop/issues"
   },
-  "homepage": "https://github.com/unloopedmido/tasteloop#readme",
+  "homepage": "https://github.com/nonlooped/tasteloop#readme",
   "license": "MIT",
   "engines": {
     "bun": ">=1.1.0"

@@ -1,7 +1,7 @@
 # 🍜 TasteLoop - Anime Openings/Endings Browser
 ![Header](.github/header.png)
 
-![CI](https://github.com/unloopedmido/tasteloop/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/nonlooped/tasteloop/actions/workflows/ci.yml/badge.svg)
 
 Small learning project to explore EJS templating with Express. It lists anime from a local dataset (data from MyAnimeList), lets you search, view details, and play openings when available via AnimeThemes. Built quickly and may not receive further updates.
 
